@@ -1,0 +1,12 @@
+.parent {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.container input {
+    width: 300px;
+    padding: 10px;
+    font-size: 15px;
+    border:darkgreen 1px solid;
+    color: darkgreen;
+}
